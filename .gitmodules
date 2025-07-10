@@ -7,3 +7,6 @@
 [submodule "Helix-Jump"]
 	path = Helix-Jump
 	url = https://github.com/NirajArts/HelixJump.git
+[submodule "temporal-odessey-game"]
+	path = temporal-odessey-game
+	url = https://github.com/NirajArts/Temporal-Odyssey_WebBuild.git
