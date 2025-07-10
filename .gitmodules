@@ -4,3 +4,6 @@
 [submodule "mmm-fingers"]
 	path = mmm-fingers
 	url = https://github.com/NirajArts/mmm-fingers.git
+[submodule "Helix-Jump"]
+	path = Helix-Jump
+	url = https://github.com/NirajArts/HelixJump.git
